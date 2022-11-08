@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1072302707691",
+    "project_id": "sinhvien-d2910",
+    "storage_bucket": "sinhvien-d2910.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072302707691:android:af42f4ac8987678353ffae",
+        "android_client_info": {
+          "package_name": "com.example.sinhvien_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072302707691-al3rjmfrt84sgu5o09fm46merrmrok4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUgvN0lOoAvmBZCo7cPMSrEpkCLUS6Sec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072302707691-al3rjmfrt84sgu5o09fm46merrmrok4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
